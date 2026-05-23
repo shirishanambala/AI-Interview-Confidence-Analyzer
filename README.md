@@ -9,6 +9,7 @@ FEATURES-
 * 📋 AI-based feedback (strengths & improvements)
 * 🎨 Modern UI with Streamlit
 * ⚡ Smooth real-time updates
+
 TECH STACK -
 💻 Frontend - Streamlit
 ⚙️ Backend - Python
